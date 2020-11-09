@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.ararat-pt-100 {
+    padding-top: 100px;
+}
+.ararat-pt-80 {
+    padding-top: 80px;
+}
+.ararat-pt-70 {
+    padding-top: 70px;
+}
+.ararat-pt-60 {
+    padding-top: 60px;
+}
+.ararat-pt-50 {
+    padding-top: 50px;
+}
+.ararat-pt-30 {
+    padding-top: 30px;
+}
+.ararat-pb-100 {
+    padding-bottom: 100px;
+}
+.ararat-pb-80 {
+    padding-bottom: 80px;
+}
+.ararat-pb-70 {
+    padding-bottom: 70px;
+}
+.ararat-pb-60 {
+    padding-bottom: 60px;
+}
+.ararat-pb-50 {
+    padding-bottom: 50px;
+}
+.ararat-pb-30 {
+    padding-bottom: 30px;
+}
